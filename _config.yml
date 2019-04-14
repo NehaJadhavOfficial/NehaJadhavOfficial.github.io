@@ -1,0 +1,30 @@
+url: https://NehaJadhavOfficial.github.io
+
+
+# Site settings
+title: Neha Jadhav
+email: jadhavneha7777@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/NehaJadhavOfficial
+  - title: twitter
+    url: https://www.linkedin.com/in/neha-jadhav-572851a9/
+  - title: facebook
+    url: https://www.linkedin.com/in/neha-jadhav-572851a9/
+  - title: stack-overflow
+    url: https://www.linkedin.com/in/neha-jadhav-572851a9/
+  - title: bitbucket 
+    url: https://www.linkedin.com/in/neha-jadhav-572851a9/
+  
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Mont Vert Oyestra
+  - line: Wakad, Pune
+
+# Build settings
+markdown: kramdown
+permalink: pretty
